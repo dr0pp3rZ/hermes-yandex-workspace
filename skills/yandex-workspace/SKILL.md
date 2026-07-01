@@ -148,7 +148,7 @@ with smtplib.SMTP_SSL('smtp.yandex.ru', 465, context=context) as server:
 1. **Never use your main password** — always use app passwords
 2. **Set file permissions to 600** — `chmod 600 ~/.hermes/yandex_client_secret.json`
 3. **Store credentials separately** — don't mix with other API keys
-4. **Rotate app passwords定期** — every 6-12 months
+4. **Rotate app passwords regularly** — every 6-12 months
 5. **Enable 2FA on Yandex account** — required for app passwords
 
 ## Troubleshooting

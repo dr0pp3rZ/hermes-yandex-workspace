@@ -257,3 +257,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 - 📖 [Hermes Agent Documentation](https://hermes-agent.nousresearch.com/docs/)
 - 🐛 [Report Issues](https://github.com/dr0pp3rZ/hermes-yandex-workspace/issues)
 - 💬 [Hermes Community](https://hermes-agent.nousresearch.com/community/)
+
